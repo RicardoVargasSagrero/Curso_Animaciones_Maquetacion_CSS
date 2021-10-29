@@ -63,6 +63,7 @@ body {
 .main-content{
   display:flex;
   grid-area: section;
+  flex-direction: column;
 }
 /**
 TODO:
